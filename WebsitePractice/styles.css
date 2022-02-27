@@ -1,0 +1,60 @@
+/* font-family: 'Fleur De Leah', cursive;
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Rajdhani', sans-serif; */
+
+
+body{
+    background-color: black;
+}
+h1{
+    font-size: 15rem;
+    color: #ffe9b7;
+    font-family: Le Jour Script, script;
+    line-height: 0rem;
+    text-shadow: 2px 2px #726e64;
+}
+h2{
+    color: #C9A95D;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+}
+h3:hover{
+    color: #E6FFF9;
+}
+h3{
+    color: #FFFFFF;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 100;
+}
+/* front */
+.Front{
+    position: relative;
+    text-align: center;
+}
+#lights{
+    height: 100%;
+    padding: 0;
+    margin: 0;   
+    /* position: absolute; */
+}
+.Title{
+    position: absolute;
+    bottom: 60%;
+    left: 10%;
+    line-height: 0rem;
+}
+.Dream{
+    position: absolute;
+    text-align: left;
+    bottom: 45%;
+    font-size: 3rem;
+    left: 10%;
+}
+/* nav bar */
+.nav-link{
+    font-family: 'Megrim', cursive;
+    font-size: 2rem;
+    color: 
+}
